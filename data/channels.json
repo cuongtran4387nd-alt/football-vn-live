@@ -1,1 +1,74 @@
-
+{
+  "channels": [
+    {
+      "id": "xoilac",
+      "name": "Xôi Lạc",
+      "priority": 1,
+      "language": "vi",
+      "label": "Kênh: [Xôi Lạc] Thể Thao Trực Tiếp"
+    },
+    {
+      "id": "cakhia",
+      "name": "Cà Khịa",
+      "priority": 2,
+      "language": "vi",
+      "label": "Kênh: [Cà Khịa] Thể Thao Trực Tiếp"
+    },
+    {
+      "id": "socolive",
+      "name": "SoCoLive",
+      "priority": 3,
+      "language": "vi",
+      "label": "Kênh: [SoCoLive] Thể Thao Trực Tiếp"
+    },
+    {
+      "id": "colatv",
+      "name": "CoLa TV",
+      "priority": 4,
+      "language": "vi",
+      "label": "Kênh: [CoLa TV] Thể Thao Trực Tiếp"
+    },
+    {
+      "id": "luongson",
+      "name": "Lương Sơn",
+      "priority": 5,
+      "language": "vi",
+      "label": "Kênh: [Lương Sơn] Thể Thao Trực Tiếp"
+    },
+    {
+      "id": "vebo",
+      "name": "Vebo TV",
+      "priority": 6,
+      "language": "vi",
+      "label": "Kênh: [Vebo TV] Thể Thao Trực Tiếp"
+    },
+    {
+      "id": "mitom",
+      "name": "Mì Tôm",
+      "priority": 7,
+      "language": "vi",
+      "label": "Kênh: [Mì Tôm] Thể Thao Trực Tiếp"
+    },
+    {
+      "id": "90phut",
+      "name": "90 Phút",
+      "priority": 8,
+      "language": "vi",
+      "label": "Kênh: [90 Phút] Thể Thao Trực Tiếp"
+    },
+    {
+      "id": "s8",
+      "name": "S8 TV",
+      "priority": 9,
+      "language": "vi",
+      "label": "Kênh: [S8 TV] Thể Thao Trực Tiếp"
+    },
+    {
+      "id": "other",
+      "name": "Nguồn Khác",
+      "priority": 10,
+      "language": "vi",
+      "label": "Kênh: [Nguồn Khác] Thể Thao Trực Tiếp"
+    }
+  ]
+}
