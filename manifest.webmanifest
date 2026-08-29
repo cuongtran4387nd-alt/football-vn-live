@@ -1,0 +1,9 @@
+{
+  "name": "Football VN Live v3",
+  "short_name": "Football VN",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#060b14",
+  "theme_color": "#07111f",
+  "lang": "vi"
+}

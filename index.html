@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#07111f"><meta name="description" content="Bóng đá LIVE và sắp diễn ra">
+<link rel="manifest" href="manifest.webmanifest"><link rel="stylesheet" href="css/style.css">
+<title>Football VN Live v3</title>
+</head>
+<body>
+<header class="hero">
+  <div><small>FOOTBALL VN LIVE · V3</small><h1>⚽ Bóng đá hôm nay</h1><p>LIVE · Sắp đá · 24 giờ tiếp theo</p></div>
+  <div class="heroRight"><b id="clock">--:--:--</b><span>Giờ Việt Nam</span></div>
+</header>
+<main>
+  <nav class="days">
+    <button id="prevDay">‹</button><button id="today" class="active">Hôm nay</button><button id="nextDay">›</button>
+  </nav>
+  <section class="stats">
+    <div><b id="liveN">0</b><span>🔴 LIVE</span></div>
+    <div><b id="upN">0</b><span>🟢 Sắp đá</span></div>
+    <div><b id="allN">0</b><span>📅 Đang hiển thị</span></div>
+    <div><b id="srcN">0</b><span>Nguồn OK</span></div>
+  </section>
+  <section class="toolbar">
+    <div class="seg"><button data-f="all" class="active">Tất cả</button><button data-f="live">🔴 LIVE</button><button data-f="upcoming">🟢 Sắp đá</button><button data-f="postponed">⏸ Hoãn</button></div>
+    <select id="league"><option value="">Tất cả giải</option></select>
+    <select id="channel"><option value="">Tất cả kênh</option></select>
+    <input id="q" placeholder="🔎 Tìm đội hoặc giải">
+  </section>
+  <div id="notice" class="notice"></div>
+  <section id="list"></section><div id="empty" class="empty hidden">Không có trận phù hợp.</div>
+  <details class="health"><summary>Tình trạng nguồn dữ liệu</summary><pre id="health"></pre></details>
+</main>
+<footer>Football VN Live v3 · Lịch/trạng thái bóng đá · Không phải dịch vụ phát sóng.</footer>
+<script src="js/app.js"></script>
+</body></html>
