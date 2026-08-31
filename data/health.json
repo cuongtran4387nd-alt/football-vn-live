@@ -1,117 +1,117 @@
 {
-  "updated_at": "2026-08-31T23:29:02.618252Z",
+  "updated_at": "2026-08-31T23:37:07.541125Z",
   "sources": [
     {
       "id": "eng.1",
       "name": "Premier League",
       "ok": false,
       "error": "403 Client Error: Forbidden for url: https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?limit=1000",
-      "checked_at": "2026-08-31T23:29:01.510655+00:00"
+      "checked_at": "2026-08-31T23:37:06.354980+00:00"
     },
     {
       "id": "esp.1",
       "name": "LaLiga",
       "ok": false,
       "error": "403 Client Error: Forbidden for url: https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?limit=1000",
-      "checked_at": "2026-08-31T23:29:01.610226+00:00"
+      "checked_at": "2026-08-31T23:37:06.495544+00:00"
     },
     {
       "id": "ita.1",
       "name": "Serie A",
       "ok": false,
       "error": "403 Client Error: Forbidden for url: https://site.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?limit=1000",
-      "checked_at": "2026-08-31T23:29:01.676427+00:00"
+      "checked_at": "2026-08-31T23:37:06.554212+00:00"
     },
     {
       "id": "ger.1",
       "name": "Bundesliga",
       "ok": false,
       "error": "403 Client Error: Forbidden for url: https://site.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?limit=1000",
-      "checked_at": "2026-08-31T23:29:01.744172+00:00"
+      "checked_at": "2026-08-31T23:37:06.626618+00:00"
     },
     {
       "id": "fra.1",
       "name": "Ligue 1",
       "ok": false,
       "error": "403 Client Error: Forbidden for url: https://site.api.espn.com/apis/site/v2/sports/soccer/fra.1/scoreboard?limit=1000",
-      "checked_at": "2026-08-31T23:29:01.798754+00:00"
+      "checked_at": "2026-08-31T23:37:06.672448+00:00"
     },
     {
       "id": "uefa.champions",
       "name": "UEFA Champions League",
       "ok": false,
       "error": "403 Client Error: Forbidden for url: https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?limit=1000",
-      "checked_at": "2026-08-31T23:29:01.857685+00:00"
+      "checked_at": "2026-08-31T23:37:06.725058+00:00"
     },
     {
       "id": "uefa.europa",
       "name": "UEFA Europa League",
       "ok": false,
       "error": "403 Client Error: Forbidden for url: https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.europa/scoreboard?limit=1000",
-      "checked_at": "2026-08-31T23:29:01.909950+00:00"
+      "checked_at": "2026-08-31T23:37:06.809125+00:00"
     },
     {
       "id": "uefa.europa.conf",
       "name": "UEFA Conference League",
       "ok": false,
       "error": "403 Client Error: Forbidden for url: https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.europa.conf/scoreboard?limit=1000",
-      "checked_at": "2026-08-31T23:29:01.978876+00:00"
+      "checked_at": "2026-08-31T23:37:06.895178+00:00"
     },
     {
       "id": "eng.2",
       "name": "Championship",
       "ok": false,
       "error": "403 Client Error: Forbidden for url: https://site.api.espn.com/apis/site/v2/sports/soccer/eng.2/scoreboard?limit=1000",
-      "checked_at": "2026-08-31T23:29:02.041342+00:00"
+      "checked_at": "2026-08-31T23:37:06.945895+00:00"
     },
     {
       "id": "ned.1",
       "name": "Eredivisie",
       "ok": false,
       "error": "403 Client Error: Forbidden for url: https://site.api.espn.com/apis/site/v2/sports/soccer/ned.1/scoreboard?limit=1000",
-      "checked_at": "2026-08-31T23:29:02.116962+00:00"
+      "checked_at": "2026-08-31T23:37:07.019814+00:00"
     },
     {
       "id": "por.1",
       "name": "Primeira Liga",
       "ok": false,
       "error": "403 Client Error: Forbidden for url: https://site.api.espn.com/apis/site/v2/sports/soccer/por.1/scoreboard?limit=1000",
-      "checked_at": "2026-08-31T23:29:02.186230+00:00"
+      "checked_at": "2026-08-31T23:37:07.078142+00:00"
     },
     {
       "id": "bel.1",
       "name": "Belgian Pro League",
       "ok": false,
       "error": "403 Client Error: Forbidden for url: https://site.api.espn.com/apis/site/v2/sports/soccer/bel.1/scoreboard?limit=1000",
-      "checked_at": "2026-08-31T23:29:02.244811+00:00"
+      "checked_at": "2026-08-31T23:37:07.146205+00:00"
     },
     {
       "id": "tur.1",
       "name": "Turkish Super Lig",
       "ok": false,
       "error": "403 Client Error: Forbidden for url: https://site.api.espn.com/apis/site/v2/sports/soccer/tur.1/scoreboard?limit=1000",
-      "checked_at": "2026-08-31T23:29:02.296080+00:00"
+      "checked_at": "2026-08-31T23:37:07.334246+00:00"
     },
     {
       "id": "usa.1",
       "name": "MLS",
       "ok": false,
       "error": "403 Client Error: Forbidden for url: https://site.api.espn.com/apis/site/v2/sports/soccer/usa.1/scoreboard?limit=1000",
-      "checked_at": "2026-08-31T23:29:02.354207+00:00"
+      "checked_at": "2026-08-31T23:37:07.386706+00:00"
     },
     {
       "id": "usa.nwsl",
       "name": "NWSL",
       "ok": false,
       "error": "403 Client Error: Forbidden for url: https://site.api.espn.com/apis/site/v2/sports/soccer/usa.nwsl/scoreboard?limit=1000",
-      "checked_at": "2026-08-31T23:29:02.460564+00:00"
+      "checked_at": "2026-08-31T23:37:07.437150+00:00"
     },
     {
       "id": "uefa.wchampions",
       "name": "Women's Champions League",
       "ok": false,
       "error": "403 Client Error: Forbidden for url: https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.wchampions/scoreboard?limit=1000",
-      "checked_at": "2026-08-31T23:29:02.522356+00:00"
+      "checked_at": "2026-08-31T23:37:07.491697+00:00"
     }
   ]
 }
